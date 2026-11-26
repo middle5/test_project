@@ -1,0 +1,16 @@
+# 비밀 정보 (절대 올리면 안됨)
+.env
+
+# 가상환경
+.venv/
+
+# 파이썬 자동 생성 파일
+__pycache__/
+
+# Jupyter 자동 저장 파일
+.ipynb_checkpoints/
+
+# 실행 파일 만들기(PyInstaller) 결과물
+build/
+dist/
+*.spec
